@@ -1,0 +1,22 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vahapogut/trustdiff/releases/download/v0.4.0/trustdiff_0.4.0_windows_amd64.zip",
+            "bin": [
+                "trustdiff.exe"
+            ],
+            "hash": "a399d541ad9dc3ee024a919500cd34d32a77bf4d1114117f9e320add85acd477"
+        },
+        "arm64": {
+            "url": "https://github.com/vahapogut/trustdiff/releases/download/v0.4.0/trustdiff_0.4.0_windows_arm64.zip",
+            "bin": [
+                "trustdiff.exe"
+            ],
+            "hash": "c1a9d740087d055a62c43c5ade556094f89f3d699107be215d90e682e8f47c68"
+        }
+    },
+    "homepage": "https://github.com/vahapogut/trustdiff",
+    "license": "Apache-2.0",
+    "description": "Finds trust regressions in a project's dependency tree before they land"
+}

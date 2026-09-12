@@ -1,19 +1,19 @@
 {
-    "version": "0.4.1",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vahapogut/trustdiff/releases/download/v0.4.1/trustdiff_0.4.1_windows_amd64.zip",
+            "url": "https://github.com/vahapogut/trustdiff/releases/download/v0.5.0/trustdiff_0.5.0_windows_amd64.zip",
             "bin": [
                 "trustdiff.exe"
             ],
-            "hash": "3f0e555a9f34a291c9cce157068cae05ca26b8ecf919a60798de0a572d08baad"
+            "hash": "5a5548b004569eff6d20628851ec0b9baa1ff4858c31619ca0c47daa6a4d82db"
         },
         "arm64": {
-            "url": "https://github.com/vahapogut/trustdiff/releases/download/v0.4.1/trustdiff_0.4.1_windows_arm64.zip",
+            "url": "https://github.com/vahapogut/trustdiff/releases/download/v0.5.0/trustdiff_0.5.0_windows_arm64.zip",
             "bin": [
                 "trustdiff.exe"
             ],
-            "hash": "7cdd3811178dffbf2f58615031c8036f241bfd7eb4717b879cd83c35b4e84462"
+            "hash": "ba049e5e2873792b1c7f3b50acee7ecd2e6fb218a230be4134d78f2b99e1e339"
         }
     },
     "homepage": "https://github.com/vahapogut/trustdiff",
